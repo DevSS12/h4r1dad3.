@@ -24,13 +24,13 @@
 
 ## INTRODUÇÃO
 
-Olá! Eu sou o Devlyu, um desenvolvedor de jogos, gosto  de criar ideias e trasnforma-las em jogos divertidos,
+Olá! Eu sou o h4r1dad3., um desenvolvedor, gosto  de criar ideias e trasnforma-las em jogos divertidos,
 Meu foco é criar Divertidos, mecânicas criativas e jogabilidade fluida que inspirem e divirtam jogadores.
 
 
 ## SOBRE
 
-Sou o Devlyu, um desenvolvedor de jogos movido pela paixão de criar experiências, tecnologia e emoção.
+Sou o h4r1dad3., um desenvolvedor de jogos movido pela paixão de criar experiências, tecnologia e emoção.
 Desde meus primeiros contatos com o mundo dos developers, sempre me dediquei para um dia virar um dos melhores dev do Mundo.
 
 Hoje, dedico meu tempo a desenvolver jogos 3D, explorando mecânicas criativas e histórias que cativem os jogadores.
@@ -105,20 +105,14 @@ Estas são as linguagens com as quais tenho mais experiência e utilizo no desen
 Aqui estão alguns jogos nos quais colaborei, seja desenvolvendo, testando ou dando suporte:
 
 
-Comunidade BR [TTD CMBr] [Ver no Roblox](https://www.roblox.com/pt/games/128123414009501/Comunidade-BR-TTD-CMBr)
+FNAB: Five Nights at Bunny [Ver no Roblox](https://www.roblox.com/pt/games/133779815154249/FNAB-Five-Nights-at-Bunny)
 ```markdown
--Jogo De Roleplay, Para se divertir E Conversar Escutar Musicas e ETC...
--Eu Ajudei Nos Menus E No Mapa Do Jogo, Nos LeaderBoards, Comandos Para Staff.
-------🇧🇷🌍 COMUNIDADE BRASILEIRA 🌍🇧🇷------ 🇧🇷
-{💃} Dancinhas do TTD BR 💥
-{🎶} IDs de Músicas 💥
-💎Não se esquece de deixar o Like e Favoritar o mapa💎
-------------------------------------------------------- 🇧🇷
-TAGS: roleplay dance catalog avatar creator music Ids favela julia dancinhas brasil criador ttd id id's cmbr
+Em Desenvolvimento
+eu e minha equipe estamos desenvolvendo um Jogo Super realista no qual eu sou builder.
 ```
 FNAF: Eternal Nights [Ver no Roblox](https://www.roblox.com/pt/games/11392373641/HALLOWEEN-FNAF-Eternal-Nights)
 ```markdown
--Criei o Mapa de La
+-Ajudei a Criar o Mapa de La
 -Fiz Os Menus
 -Ajudei Nos Efeitos
 🇧🇷 Um jogo feito com orgulho por desenvolvedores brasileiros! 🇧🇷
@@ -163,10 +157,10 @@ tags: TNP, General, favela, Guerra, TNF, PVP, ZEUS,FPS,, RP, ROLEPLAY, BRASIL, T
 ```
 ## ESCALA DOS JOGOS
 
-Comunidade BR
+Fnab: Five Nights at Bunny
 ```markdown
 Ativo     Favoritos    Visitas    Bate-papo de voz    Câmera        Criado        Atualizado    Tamanho do servidor   Gênero
-455        272.752     15.2M+       Suportado        Suportado     25/11/2024     29/10/2025            50            Social
+ 0            0           0          Suportado        Suportado     17/12/2025     18/12/2025            50            Sobrevicencia
 ```
 Eternal Nights
 ```markdown
@@ -184,7 +178,7 @@ Ativo     Favoritos    Visitas    Bate-papo de voz    Câmera          Criado   
 
  Email: devlyu@email.com
  
- Discord: lyuofckz
+ Discord: h4r1dad3.
  
 ## LICENÇA
 
@@ -192,7 +186,7 @@ Consulte o arquivo LICENSE.md.
 
 ## Aviso de Direitos Autorais
 
-© 2025 Devlyu. Todos os direitos reservados. Todos os conteúdos que compartilho neste portfólio — incluindo jogos, códigos, imagens, vídeos e textos — são produtos do meu trabalho e da minha criatividade. Os direitos autorais existem para garantir que o autor do conteúdo, neste caso eu, Devlyu, tenha controle sobre como ele é utilizado.
+© 2025 h4r1dad3.. Todos os direitos reservados. Todos os conteúdos que compartilho neste portfólio — incluindo jogos, códigos, imagens, vídeos e textos — são produtos do meu trabalho e da minha criatividade. Os direitos autorais existem para garantir que o autor do conteúdo, neste caso eu, Devlyu, tenha controle sobre como ele é utilizado.
 
 Isso significa que outras pessoas podem visualizar, estudar e se inspirar no meu trabalho, mas não podem copiar, redistribuir ou usar comercialmente sem minha autorização.
 
